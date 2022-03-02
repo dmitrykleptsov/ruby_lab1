@@ -1,6 +1,5 @@
 # Ruby Starter Project
 
-![Unit Tests & Lint](https://github.com/ssshazam/legendary-meme/workflows/Unit%20Tests%20&%20Lint/badge.svg)
 
 
 ## Install
